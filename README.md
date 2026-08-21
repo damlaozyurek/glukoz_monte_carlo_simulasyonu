@@ -1,0 +1,1 @@
+# glukoz_monte_carlo_simulasyonu
